@@ -232,7 +232,7 @@ public slots:
     void setShowMentionPopups(const int _showMentionPopups);
     void setRoomHistory(const int _roomHistory);
     void setLeftJustified( const int _leftJustified);
-    void setMasterVolume(const int _masterVolume);
+    void setsettingscacheMasterVolume(const int _masterVolume);
     void setCardInfoViewMode(const int _viewMode);
     void setHighlightWords(const QString &_highlightWords);
     void setGameDescription(const QString _gameDescription);
