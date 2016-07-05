@@ -1,6 +1,7 @@
 #!/bin/bash
 # TEST BOT
 # TEST BOT 2
+# TEST BOT 3
 
 if [[ $TRAVIS_OS_NAME == "osx" ]] ; then
   brew update > /dev/null
